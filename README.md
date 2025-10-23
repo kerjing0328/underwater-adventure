@@ -8,10 +8,11 @@ In folder cycleGAN/ contains an **unpaired image dataset** structured for Cycle-
 
 The dataset is organized into two primary domains (A and B) and is ready to be used directly in any standard CycleGAN implementation.
 
-| Domain | Source Collection | Content Description | 
-| :--- | :--- | :--- | 
-| **trainA (Source)** | **Ozfish** | Images captured in **clear, shallow water** (coastal, reef, or aquarium environments). |
-| **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | 
+| Domain | Source Collection | Content Description | Link |
+| :--- | :--- | :--- | :--- |
+| **trainA (Source)** | **Ozfish** | Images captured in **clear, shallow water** (coastal, reef, or aquarium environments). | https://github.com/open-AIMS/ozfish |
+| **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | https://sites.google.com/view/oceandark/home |
+
 
 
 
