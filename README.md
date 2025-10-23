@@ -11,7 +11,8 @@ The dataset is organized into two primary domains (A and B) and is ready to be u
 | Domain | Source Collection | Content Description | Link |
 | :--- | :--- | :--- | :--- |
 | **trainA (Source)** | **Ozfish** | Images captured in **shallow water** (coastal, fish or objects). | https://github.com/open-AIMS/ozfish |
-| **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | https://sites.google.com/view/oceandark/home |
+| **trainB (Target)** | **OceanDark** | Images representing the **dark, profound depths underwater environment with artificial lighting**. | https://sites.google.com/view/oceandark/home |
+
 
 
 
