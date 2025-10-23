@@ -8,7 +8,8 @@ This repository contains an **unpaired image dataset** structured for Cycle-Cons
 
 The dataset is organized into two primary domains (A and B) and is ready to be used directly in any standard CycleGAN implementation.
 
-| Domain | Source Collection | Content Description | Total Images |
-| :--- | :--- | :--- | :--- |
-| **trainA (Source)** | **Ozfish** | Images captured in **clear, shallow water** (coastal, reef, or aquarium environments). | [Insert Total Count of trainA] |
-| **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | [Insert Total Count of trainB] |
+| Domain | Source Collection | Content Description | 
+| :--- | :--- | :--- | 
+| **trainA (Source)** | **Ozfish** | Images captured in **clear, shallow water** (coastal, reef, or aquarium environments). |
+| **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | 
+
