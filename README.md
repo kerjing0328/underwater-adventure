@@ -1,6 +1,6 @@
 # 🌊 1. Deep Sea CycleGAN Dataset
 
-This repository contains an **unpaired image dataset** structured for Cycle-Consistent Generative Adversarial Network (CycleGAN) training. The data is intended for the translation of **Shallow Water** aesthetics to a **Deep Sea** aesthetic.
+In folder cycleGAN/ contains an **unpaired image dataset** structured for Cycle-Consistent Generative Adversarial Network (CycleGAN) training. The data is intended for the translation of **Shallow Water** aesthetics to a **Deep Sea** aesthetic.
 
 ***
 
@@ -12,5 +12,6 @@ The dataset is organized into two primary domains (A and B) and is ready to be u
 | :--- | :--- | :--- | 
 | **trainA (Source)** | **Ozfish** | Images captured in **clear, shallow water** (coastal, reef, or aquarium environments). |
 | **trainB (Target)** | **OceanDark** | Images representing the **dark, deep indigo or deep blue water** aesthetic, typically low-light. | 
+
 
 
